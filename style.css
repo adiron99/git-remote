@@ -1,0 +1,27 @@
+.container {
+    /* max-width: 1000px; */
+    margin: auto;
+    background: #202b6e;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+.logo-sec {
+    border: 1px solid #fff;
+    padding: 10px 20px;
+}
+.nav ul {
+    list-style: none;
+}
+.nav ul li {
+    float: left;
+    padding: 10px 25px;
+    color: #fff;
+    margin-bottom: 20px;
+}
